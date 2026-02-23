@@ -22,5 +22,15 @@ Jumpers e Breadboard
 💡 Como funciona:
 O ESP32 cria um ponto de acesso Wi-Fi. Você se conecta, abre o navegador e o gráfico é desenhado via código. É tecnologia pura em um projeto de baixo custo!
 
+Passo a passo rápido:
+
+1. Carregue o código no ESP32-C3.
+2. Conecte no Wi-Fi "ESP32_Radar_Web".
+3. Abra o navegador e digite: 192.168.4.1
+
+Se o radar funcionar pra você, deixa um like aqui! 👇🚀
+
+https://youtube.com/shorts/lt7UA6r5blQ?si=WrOVBYSNZ0ohJrK7
+
 
 #ESP32 #ESP32C3 #RadarMilitar #DIY #Eletronica #Arduino #TechWithPi #Robotica #Maker #IoT #SemApp
